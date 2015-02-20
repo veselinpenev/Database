@@ -325,6 +325,7 @@ BEGIN
 		ON e.AddressID = a.AddressID
 	JOIN Towns t
 		ON a.TownID = t.TownID
+	WHERE t.Name = @townName
 
 	OPEN empSecondCoursor
 	FETCH NEXT FROM empSecondCoursor INTO @secondFirsName, @secondLastName, @secondTownName
