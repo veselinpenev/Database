@@ -1,0 +1,5 @@
+E:\Programing\SQL\Homework_GitHub\Homework_T-SQL\ConcatStringSQL\ConcatStringSQL\bin\Debug\ConcatStringSQL.dll
+E:\Programing\SQL\Homework_GitHub\Homework_T-SQL\ConcatStringSQL\ConcatStringSQL\bin\Debug\ConcatStringSQL.pdb
+E:\Programing\SQL\Homework_GitHub\Homework_T-SQL\ConcatStringSQL\ConcatStringSQL\obj\Debug\ConcatStringSQL.csprojResolveAssemblyReference.cache
+E:\Programing\SQL\Homework_GitHub\Homework_T-SQL\ConcatStringSQL\ConcatStringSQL\obj\Debug\ConcatStringSQL.dll
+E:\Programing\SQL\Homework_GitHub\Homework_T-SQL\ConcatStringSQL\ConcatStringSQL\obj\Debug\ConcatStringSQL.pdb
